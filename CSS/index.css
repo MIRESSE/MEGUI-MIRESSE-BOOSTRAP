@@ -1,0 +1,143 @@
+.carousel-item {
+    
+}
+
+.carousel-item img{
+    filter: brightness(30%);
+}
+.carousel-caption{
+    margin-bottom: 180px;
+}
+.carousel-caption h6{
+    background-color: yellow;
+    border-radius: 5px;
+    width: 90px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 420px;
+}
+.carousel-caption h6 a{
+text-decoration: none;
+color: black;
+}
+
+.po{
+    margin-top: 40px;
+}
+
+.pi{
+text-align: center;
+}
+.pii{
+    text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+
+.ma{
+    background-color: yellow;
+    border-radius: 5px;
+    width: 90px;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 70px;
+    
+}
+.ma a{
+   text-decoration: none;
+   color: black;
+}
+.mi{
+    text-align: center;
+}
+
+
+.mii{
+    text-align: center;
+}
+.card img{
+    width: 280px;
+}
+.card{
+    margin-left: 70px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+  
+}
+.card-title{
+    text-align:justify;
+}
+.card:hover{
+box-shadow: 3px 3px 8px 8px;
+}
+
+
+span{
+    text-decoration: coral;
+}
+.bi{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bii{
+    text-align: center;
+}
+
+.cardd img{
+    border-radius: 150px;
+    width: 100px;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    
+}
+
+
+.cardd{
+  height: 300px;
+  border: 1px solid rosybrown;
+  border-radius: 3px ;
+  margin-left: 40px;
+  
+}
+
+.Ki{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Kii{
+    text-align: center;
+}
+
+.col{
+    margin-left: 200px;
+}
+
+.{
+    background-color: yellow;
+}
+
+.li{
+    margin-left: 100px;
+}
+
+span{
+    color:yellow;
+}
+
+.input-group{
+    background-color: yellow;
+}
+
+.form-controll{
+    background-color: yellow;
+}
+
+.btn{
+    margin-left: 500px;
+}
